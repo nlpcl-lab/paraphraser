@@ -1,6 +1,6 @@
 # Paraphraser
 
-This repository is for the paraphraser.
+This repository is for the paraphraser client sample.
 
 ## Usage 
 ```python
