@@ -1,6 +1,6 @@
 # Paraphraser
 
-This repository is for the paraphraser client sample.
+This repository is for the NLPCL-lab Paraphraser simple client.
 
 ## Usage 
 ```python
