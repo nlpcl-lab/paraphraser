@@ -6,5 +6,5 @@ This repository is for the paraphraser.
 ```python
 from client import paraphrase
 print(paraphrase('apple trees are beginning to blossom .'))
-# apple tree are starting to blossom .
+# {"result": "apple tree are starting to blossom . "}
 ```

@@ -10,4 +10,4 @@ def paraphrase(sentence):
 
 if __name__ == '__main__':
     print(paraphrase('apple trees are beginning to blossom .'))
-    # apple tree are starting to blossom .
+    # {"result": "apple tree are starting to blossom . "}
