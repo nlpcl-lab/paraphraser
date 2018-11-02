@@ -2,7 +2,7 @@ import requests
 
 
 def paraphrase(sentence):
-    url = 'http://credon.kaist.ac.kr:8081/paraphrase'
+    url = 'http://credon.kaist.ac.kr:8082/paraphrase'
     data = {'sentence': sentence}
     res = requests.post(url, json=data)
     return res.text
