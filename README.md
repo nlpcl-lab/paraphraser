@@ -9,6 +9,6 @@ print(paraphrase('apple trees are beginning to blossom .'))
 # {"result": "apple tree are starting to blossom . "}
 ```
 
-## Contributors
+## Created By
 
 [Hancheol](http://nlp.kaist.ac.kr/~hcpark)
